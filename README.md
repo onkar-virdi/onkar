@@ -1,2 +1,2 @@
-# onkar fjshfhahfjkdafh;asd
-cat > new.txt
+this is just practice of turtle drawing.
+
